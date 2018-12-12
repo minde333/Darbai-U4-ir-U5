@@ -1,0 +1,8 @@
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Knyga1.txt
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Knyga2.txt
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Darbas.exe.config
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Darbas.exe
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Darbas.pdb
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\obj\Debug\L4_U4_11.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\obj\Debug\Darbas.exe
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\obj\Debug\Darbas.pdb

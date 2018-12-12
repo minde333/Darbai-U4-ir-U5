@@ -1,0 +1,35 @@
+Žodžiai ir jų kiekis.
+1. . Žodis: neighbor | Pasikartojimai: 2 | Ilgis: 8
+
+2. . Žodis: pinpoint | Pasikartojimai: 0 | Ilgis: 8
+
+3. . Žodis: trouble | Pasikartojimai: 0 | Ilgis: 7
+
+4. . Žodis: walking | Pasikartojimai: 0 | Ilgis: 7
+
+5. . Žodis: missile | Pasikartojimai: 0 | Ilgis: 7
+
+6. . Žodis: easily | Pasikartojimai: 0 | Ilgis: 6
+
+7. . Žodis: person | Pasikartojimai: 0 | Ilgis: 6
+
+8. . Žodis: across | Pasikartojimai: 1 | Ilgis: 6
+
+9. . Žodis: street | Pasikartojimai: 0 | Ilgis: 6
+
+10. . Žodis: about | Pasikartojimai: 0 | Ilgis: 5
+
+
+Trumpiausias pirmo duomenų failo sakinys: 
+"We can, fire a, missile"
+
+Sakinios pradžios eilutės Nr.: 4
+Sakinio ilgis simboliais: 23
+Sakinio žodžių skaičius: 5
+
+Trumpiausias antro duomenų failo sakinys: 
+"What impact, digital will your life have, on the follow you"
+
+Sakinios pradžios eilutės Nr.: 6
+Sakinio ilgis simboliais: 59
+Sakinio žodžių skaičius: 11
